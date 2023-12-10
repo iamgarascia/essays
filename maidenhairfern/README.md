@@ -2,9 +2,10 @@
 
 
 
-# Hello, Juncture
+# The Maidenhair Fern: a Feminine and Feminist Plant
 
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+
+According to the column “Woman’s Realm” of The Daily Record (6 October 1898), the most stylish Victorian women looked to the botanical world for inspiration; one of the season’s most in-demand items was a “noted jeweler’s” finely wrought gold diadem composed of “maidenhair fern leaves.” Not simply a faddish fashion, the maidenhair as an object of feminine decoration extends well past the boundaries of the nineteenth century. Linking Victorian women to medical botanical customs dating back to antiquity, the ferny crown encasing a towering pile of feathery ringlets nods to the longstanding cultural history of the maidenhair fern as an agent of hair restoration. Recently, the Victorian maidenhair’s wrought gold found new life as filigree stitching: to celebrate King Charles III’s 2023 coronation, Queen Consort Camilla donned a [bespoke purple velvet robe ](https://www.royal.uk/news-and-activity/2023-04-29/a-first-glimpse-at-their-majesties-coronation-robes) embroidered with insects and plants including the maidenhair, which is a favorite of Charles and a symbol of purity.
 
 ## Aulacophora indica
 
